@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
 
 const WhoAmI = {
   pronouns: "she" | "her",
@@ -29,13 +28,5 @@ const WhoAmI = {
 }
 
 Languages and Tools
-Java Python C++ Android SQL
+Java Python Android SQL
 
-Projects
-
-
- Contact Me! 😊
-Twitter Badge Linkedin Badge Gmail Badge
-
-"I have no special talent. I am only passionately curious."
--Albert Einstein
