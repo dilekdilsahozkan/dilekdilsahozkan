@@ -1,4 +1,4 @@
-### Hi there 👋
+### 𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 👋
 
 <!--
 **dilekdilsahozkan/dilekdilsahozkan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 const WhoAmI = {
   pronouns: "she" | "her",
-  name: "Meva Akkaya",
+  name: "Dilek Dilşah ÖZKAN",
   country: "Turkey",
   education: {
                university: "University of Turkish Aeronautical Association",
                major: "Computer Engineer",
-               degree: ["BS", "2020 Graduated"]
+               degree: ["BS", "2021 Graduated"]
   
                                                    },
 }
