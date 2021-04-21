@@ -14,3 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+𝐇𝐞𝐥𝐥𝐨 <𝚌𝚘𝚍𝚎𝚛𝚜/>! 
+
+const WhoAmI = {
+  pronouns: "she" | "her",
+  name: "Meva Akkaya",
+  country: "Turkey",
+  education: {
+               university: "University of Turkish Aeronautical Association",
+               major: "Computer Engineer",
+               degree: ["BS", "2020 Graduated"]
+  
+                                                   },
+}
+
+Languages and Tools
+Java Python C++ Android SQL
+
+Projects
+
+
+ Contact Me! 😊
+Twitter Badge Linkedin Badge Gmail Badge
+
+"I have no special talent. I am only passionately curious."
+-Albert Einstein
