@@ -16,15 +16,15 @@ Here are some ideas to get you started:
 -->
 
 const WhoAmI = { <br>
-  pronouns: "she" | "her", <br>
-  name: "Dilek Dilşah ÖZKAN", <br>
-  country: "Turkey", <br>
-  education: { <br>
-               university: "University of Turkish Aeronautical Association", <br>
-               major: "Computer Engineer", <br>
-               degree: ["BS", "2021 Graduated"] <br>
+  >pronouns: "she" | "her", <br>
+  >name: "Dilek Dilşah ÖZKAN", <br>
+  >country: "Turkey", <br>
+  >education: { <br>
+  >             university: "University of Turkish Aeronautical Association", <br>
+  >             major: "Computer Engineer", <br>
+  >             degree: ["BS", "2021 Graduated"] <br>
   
-                                                   }, <br>
+                                                   }, 
 } <br>
 
 Languages and Tools <br>
