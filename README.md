@@ -15,18 +15,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-const WhoAmI = {
-  pronouns: "she" | "her",
-  name: "Dilek Dilşah ÖZKAN",
-  country: "Turkey",
-  education: {
-               university: "University of Turkish Aeronautical Association",
-               major: "Computer Engineer",
-               degree: ["BS", "2021 Graduated"]
+const WhoAmI = { <br>
+  pronouns: "she" | "her", <br>
+  name: "Dilek Dilşah ÖZKAN", <br>
+  country: "Turkey", <br>
+  education: { <br>
+               university: "University of Turkish Aeronautical Association", <br>
+               major: "Computer Engineer", <br>
+               degree: ["BS", "2021 Graduated"] <br>
   
-                                                   },
-}
+                                                   }, <br>
+} <br>
 
-Languages and Tools
+Languages and Tools <br>
 Java Python Android SQL
 
