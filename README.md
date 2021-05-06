@@ -20,9 +20,9 @@ const WhoAmI = { <br>
   >name: "Dilek Dilşah ÖZKAN", <br>
   >country: "Turkey", <br>
   >education: { <br>
-  >> > >      university: "University of Turkish Aeronautical Association", 
-  >> > >      major: "Computer Engineer", 
-  >> > >      degree: ["BS", "2021 Graduated"] 
+  >> >      university: "University of Turkish Aeronautical Association", 
+  >> >      major: "Computer Engineer", 
+  >> >      degree: ["BS", "2021 Graduated"] 
   
                                                    }, 
 } <br>
