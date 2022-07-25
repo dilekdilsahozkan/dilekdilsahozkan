@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 const WhoAmI = { <br>
-  >pronouns: "she" | "her", <br>
   >name: "Dilek Dilşah ÖZKAN", <br>
   >country: "Turkey", <br>
   >education: { <br>
@@ -28,5 +27,5 @@ const WhoAmI = { <br>
 } <br>
 
 Languages and Tools <br>
-Java Python Android SQL
+Java Kotlin Swift Python
 
