@@ -7,6 +7,8 @@
 
 📫 How to reach me: dilekdilsah21@gmail.com
 
+💻 Languages and Tools: Kotlin Java Swift Python
+
 const WhoAmI = { <br>
   >name: "Dilek Dilşah ÖZKAN", <br>
   >country: "Turkey", <br>
@@ -19,6 +21,5 @@ const WhoAmI = { <br>
  
 } <br>
 
-Languages and Tools <br>
-Java Kotlin Swift Python
+
 
