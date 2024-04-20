@@ -2,7 +2,9 @@
 
 
 🔭 I’m currently working on Mobile Application Programming.
+
 🌱 I’m currently currently working to improve myself in this field.
+
 📫 How to reach me: dilekdilsah21@gmail.com
 
 const WhoAmI = { <br>
