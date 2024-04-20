@@ -5,9 +5,9 @@
 
 🌱 I’m currently currently working to improve myself in this field.
 
-📫 How to reach me: dilekdilsah21@gmail.com
-
 💻 Languages and Tools: Kotlin Java Swift Python
+
+📫 How to reach me: dilekdilsah21@gmail.com
 
 const WhoAmI = { <br>
   >name: "Dilek Dilşah ÖZKAN", <br>
@@ -17,7 +17,7 @@ const WhoAmI = { <br>
   >> >      major: "Computer Engineer", 
   >> >      degree: ["BS", "2021 Graduated"] 
   
- }, 
+   }, 
  
 } <br>
 
