@@ -15,7 +15,7 @@ const WhoAmI = { <br>
   >> >      major: "Computer Engineer", 
   >> >      degree: ["BS", "2021 Graduated"] 
   
-                                                   }, 
+ }, 
 } <br>
 
 Languages and Tools <br>
