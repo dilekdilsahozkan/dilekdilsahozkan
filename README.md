@@ -5,7 +5,7 @@
 
 🌱 I’m currently currently working to improve myself in this field.
 
-💻 Languages and Tools: Kotlin Java Swift Python
+💻 Languages and Tools: Kotlin Java Swift Jetpack Compose
 
 📫 How to reach me: dilekdilsah21@gmail.com
 
